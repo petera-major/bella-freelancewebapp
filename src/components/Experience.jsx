@@ -18,7 +18,7 @@ export default function Experience() {
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.3, ease: "easeOut" }}
       >
-        ✨ The Bella Experience
+         The Bella Experience
       </motion.h2>
       <div className="grid sm:grid-cols-2 gap-6 max-w-5xl mx-auto px-4">
         {services.map((s, i) => (
