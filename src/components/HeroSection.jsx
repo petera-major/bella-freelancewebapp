@@ -32,7 +32,7 @@ export default function HeroSection() {
         </p>
 
         <Link
-          to="/booking"
+          to="/book"
           className="bg-gradient-to-r from-yellow-400 to-yellow-600 text-black font-semibold px-6 py-3 rounded-lg shadow-md hover:shadow-lg transition-all"
         >
           Book Your Consultation
